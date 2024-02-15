@@ -1,0 +1,16 @@
+{
+
+    "title": "¡Bienvenidos!",
+    "titleSubtitle": "Ingrese con su email y contraseña",
+    "haveAccount": "Tiene cuenta?",
+    "dontHaveAccount": "No tiene cuenta?",
+    "enterPass": "Ingresar su contraseña",
+    "enterEmail": "Ingresar su email",
+    "singIntoAccount": "Ingresar en la cuenta",
+    "signedOk": "Ingreso correctamente",
+    "signIn": "Ingresar",
+    "signUp": "Registrarse",
+    "forgotPass": "Olvide mi contraseña",
+    "exploreAll": "Todos los productos"
+      
+}

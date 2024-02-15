@@ -1,0 +1,16 @@
+{
+
+    "title": "¡Hello World!",
+    "titleSubtitle": "Sign in with your email and password",
+    "haveAccount": "Tiene cuenta?",
+    "dontHaveAccount": "Don't have an account?",
+    "enterPass": "Enter your password",
+    "enterEmail": "Enter your email",
+    "singIntoAccount": "Signing in to account",
+    "signedOk": "Signed In Successfully",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPass":  "Forgot Password",
+    "exploreAll": "Explore All Products"
+      
+}
